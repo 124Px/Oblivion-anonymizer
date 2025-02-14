@@ -92,5 +92,16 @@ Oblivion Anonymizer is intended **for legal privacy and security enhancements on
 
 ---
 
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/124Px/Oblivion-anonymizer/blob/main/LICENSE) file for details.
+
+## 🤝 Contribute
+Contributions are welcome! Fork the repo and submit a pull request.
+
+## ⭐️ Support
+If you like this project, **give it a star** to support its development!
+
+[![Stars](https://img.shields.io/github/stars/124Px/Oblivion-anonymizer.svg?style=social)](https://github.com/124Px/Oblivion-anonymizer)
+
 ⚠ **Disclaimer:** This tool is meant to be used responsibly and for legal purposes only. ❌ The author is not responsible for any misuse or consequences that arise from improper use of this software. Please ensure that you comply with local laws and regulations when using Oblivion Anonymizer. Stay safe and respect privacy ethics! 🔒
 
