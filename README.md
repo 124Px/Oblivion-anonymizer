@@ -1,6 +1,6 @@
 # Oblivion Anonymizer
 
-![Oblivion Anonymizer](https://cdn.discordapp.com/attachments/1334237294588330044/1339971061134921890/image.png?ex=67b0a8cc&is=67af574c&hm=088ab832f8a2d289d349fb6d6433397e0e0400959fab16136937f896c33416b0&)
+<img src="https://cdn.discordapp.com/attachments/1334237294588330044/1339971061134921890/image.png?ex=67b0a8cc&is=67af574c&hm=088ab832f8a2d289d349fb6d6433397e0e0400959fab16136937f896c33416b0&" width="500" />
 
 ## Overview
 **Oblivion Anonymizer** is an advanced privacy tool designed to enhance anonymity on Windows-based systems. This program provides users with multiple features to obfuscate system information, clean up traces, spoof hardware identifiers, and secure personal data. It is a comprehensive solution for users seeking greater control over their digital footprint. 🛡️
@@ -81,7 +81,7 @@ The following Python modules are required:
 ## Usage 🖥️
 After installation, launch the main script to access the graphical interface and configure settings based on your anonymity needs.
 
-## Warning ⚠️
+## Warning & Legal Disclaimer ⚠️
 **Do not purchase Oblivion Anonymizer from unauthorized sources.**
 
 🚨 **The website below has stolen and is reselling this code without permission:**
