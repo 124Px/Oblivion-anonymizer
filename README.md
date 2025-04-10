@@ -81,15 +81,6 @@ The following Python modules are required:
 ## Usage 🖥️
 After installation, launch the main script to access the graphical interface and configure settings based on your anonymity needs.
 
-## Warning ⚠️
-**Do not purchase Oblivion Anonymizer from unauthorized sources.**
-
-🚨 **The website below has stolen and is reselling this code without permission:**
-
-🔗 [https://redtiger.shop/product.php?id=2](https://redtiger.shop/product.php?id=2)
-
-Oblivion Anonymizer is intended **for legal privacy and security enhancements only**. The developers do not support or endorse any illegal activities conducted using this software.
-
 ---
 
 ## 📜 License
