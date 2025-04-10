@@ -1,6 +1,6 @@
 # Oblivion Anonymizer
 
-<img src="https://raw.githubusercontent.com/124Px/Oblivion-anonymizer/refs/heads/main/Oblivion/Oblivion_Anonimizer/img/banner_oblivion.png" width="500" />
+<img src="https://raw.githubusercontent.com/124Px/Oblivion-anonymizer/refs/heads/main/Oblivion/Oblivion_Anonimizer/img/banner_oblivion.png" width="1000" />
 
 ## Overview
 **Oblivion Anonymizer** is an advanced privacy tool designed to enhance anonymity on Windows-based systems. This program provides users with multiple features to obfuscate system information, clean up traces, spoof hardware identifiers, and secure personal data. It is a comprehensive solution for users seeking greater control over their digital footprint. 🛡️
